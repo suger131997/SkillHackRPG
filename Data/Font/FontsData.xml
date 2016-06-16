@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<profile type="fontfile">
+  <fontimg>FontsData.png</fontimg>
+  <fontsizedatas>
+    <fontsize type="small">18</fontsize>
+    <fontsize type="middle">36</fontsize>
+    <fontsize type="big">54</fontsize>
+  </fontsizedatas>
+  <fonts>
+    <font>
+      <char>ア</char>
+      <size>small</size>
+      <position y="0" x="0" />
+    </font>
+    <font>
+      <char>あ</char>
+      <size>small</size>
+      <position y="0" x="18" />
+    </font>
+    <font>
+      <char>あ</char>
+      <size>middle</size>
+      <position y="36" x="0" />
+    </font>
+    <font>
+      <char>あ</char>
+      <size>big</size>
+      <position y="72" x="0" />
+    </font>
+    <font>
+      <char>イ</char>
+      <size>small</size>
+      <position y="0" x="36" />
+    </font>
+    <font>
+      <char>い</char>
+      <size>small</size>
+      <position y="0" x="54" />
+    </font>
+    <font>
+      <char>ウ</char>
+      <size>small</size>
+      <position y="0" x="72" />
+    </font>
+    <font>
+      <char>う</char>
+      <size>small</size>
+      <position y="0" x="90" />
+    </font>
+    <font>
+      <char>エ</char>
+      <size>small</size>
+      <position y="0" x="108" />
+    </font>
+    <font>
+      <char>え</char>
+      <size>small</size>
+      <position y="0" x="126" />
+    </font>
+    <font>
+      <char>オ</char>
+      <size>small</size>
+      <position y="0" x="144" />
+    </font>
+    <font>
+      <char>お</char>
+      <size>small</size>
+      <position y="0" x="162" />
+    </font>
+    <font>
+      <char>カ</char>
+      <size>small</size>
+      <position y="0" x="180" />
+    </font>
+    <font>
+      <char>か</char>
+      <size>small</size>
+      <position y="0" x="198" />
+    </font>
+    <font>
+      <char>キ</char>
+      <size>small</size>
+      <position y="0" x="216" />
+    </font>
+    <font>
+      <char>き</char>
+      <size>small</size>
+      <position y="0" x="234" />
+    </font>
+    <font>
+      <char>ク</char>
+      <size>small</size>
+      <position y="0" x="252" />
+    </font>
+    <font>
+      <char>く</char>
+      <size>small</size>
+      <position y="0" x="270" />
+    </font>
+    <font>
+      <char>ケ</char>
+      <size>small</size>
+      <position y="0" x="288" />
+    </font>
+    <font>
+      <char>け</char>
+      <size>small</size>
+      <position y="0" x="306" />
+    </font>
+    <font>
+      <char>コ</char>
+      <size>small</size>
+      <position y="0" x="324" />
+    </font>
+    <font>
+      <char>こ</char>
+      <size>small</size>
+      <position y="0" x="342" />
+    </font>
+    <font>
+      <char>サ</char>
+      <size>small</size>
+      <position y="0" x="360" />
+    </font>
+    <font>
+      <char>さ</char>
+      <size>small</size>
+      <position y="0" x="378" />
+    </font>
+    <font>
+      <char>シ</char>
+      <size>small</size>
+      <position y="0" x="396" />
+    </font>
+    <font>
+      <char>し</char>
+      <size>small</size>
+      <position y="0" x="414" />
+    </font>
+    <font>
+      <char>ス</char>
+      <size>small</size>
+      <position y="0" x="432" />
+    </font>
+    <font>
+      <char>す</char>
+      <size>small</size>
+      <position y="0" x="450" />
+    </font>
+    <font>
+      <char>セ</char>
+      <size>small</size>
+      <position y="0" x="468" />
+    </font>
+    <font>
+      <char>せ</char>
+      <size>small</size>
+      <position y="0" x="486" />
+    </font>
+    <font>
+      <char>ソ</char>
+      <size>small</size>
+      <position y="0" x="504" />
+    </font>
+    <font>
+      <char>そ</char>
+      <size>small</size>
+      <position y="0" x="522" />
+    </font>
+    <font>
+      <char>た</char>
+      <size>small</size>
+      <position y="0" x="540" />
+    </font>
+    <font>
+      <char>ち</char>
+      <size>small</size>
+      <position y="0" x="558" />
+    </font>
+    <font>
+      <char>つ</char>
+      <size>small</size>
+      <position y="0" x="576" />
+    </font>
+    <font>
+      <char>て</char>
+      <size>small</size>
+      <position y="0" x="594" />
+    </font>
+    <font>
+      <char>と</char>
+      <size>small</size>
+      <position y="0" x="612" />
+    </font>
+    <font>
+      <char>な</char>
+      <size>small</size>
+      <position y="0" x="630" />
+    </font>
+    <font>
+      <char>に</char>
+      <size>small</size>
+      <position y="0" x="648" />
+    </font>
+    <font>
+      <char>ぬ</char>
+      <size>small</size>
+      <position y="0" x="666" />
+    </font>
+    <font>
+      <char>ね</char>
+      <size>small</size>
+      <position y="0" x="684" />
+    </font>
+    <font>
+      <char>の</char>
+      <size>small</size>
+      <position y="0" x="702" />
+    </font>
+    <font>
+      <char>は</char>
+      <size>small</size>
+      <position y="0" x="720" />
+    </font>
+    <font>
+      <char>ひ</char>
+      <size>small</size>
+      <position y="0" x="738" />
+    </font>
+    <font>
+      <char>ふ</char>
+      <size>small</size>
+      <position y="0" x="756" />
+    </font>
+    <font>
+      <char>へ</char>
+      <size>small</size>
+      <position y="0" x="774" />
+    </font>
+    <font>
+      <char>ほ</char>
+      <size>small</size>
+      <position y="0" x="792" />
+    </font>
+    <font>
+      <char>ま</char>
+      <size>small</size>
+      <position y="0" x="810" />
+    </font>
+    <font>
+      <char>み</char>
+      <size>small</size>
+      <position y="0" x="828" />
+    </font>
+    <font>
+      <char>む</char>
+      <size>small</size>
+      <position y="0" x="846" />
+    </font>
+    <font>
+      <char>め</char>
+      <size>small</size>
+      <position y="0" x="864" />
+    </font>
+    <font>
+      <char>も</char>
+      <size>small</size>
+      <position y="0" x="882" />
+    </font>
+    <font>
+      <char>や</char>
+      <size>small</size>
+      <position y="0" x="900" />
+    </font>
+    <font>
+      <char>ゆ</char>
+      <size>small</size>
+      <position y="0" x="918" />
+    </font>
+    <font>
+      <char>よ</char>
+      <size>small</size>
+      <position y="0" x="936" />
+    </font>
+    <font>
+      <char>ら</char>
+      <size>small</size>
+      <position y="0" x="954" />
+    </font>
+    <font>
+      <char>り</char>
+      <size>small</size>
+      <position y="0" x="972" />
+    </font>
+    <font>
+      <char>る</char>
+      <size>small</size>
+      <position y="0" x="990" />
+    </font>
+    <font>
+      <char>れ</char>
+      <size>small</size>
+      <position y="0" x="1008" />
+    </font>
+    <font>
+      <char>ろ</char>
+      <size>small</size>
+      <position y="0" x="1026" />
+    </font>
+    <font>
+      <char>わ</char>
+      <size>small</size>
+      <position y="0" x="1044" />
+    </font>
+    <font>
+      <char>を</char>
+      <size>small</size>
+      <position y="0" x="1062" />
+    </font>
+    <font>
+      <char>ん</char>
+      <size>small</size>
+      <position y="18" x="0" />
+    </font>
+  </fonts>
+</profile>
